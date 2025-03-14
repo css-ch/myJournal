@@ -1,0 +1,36 @@
+{
+  "name": "@css-ch/myjournal",
+  "version": "1.0.0",
+  "description": "A journal for apprentices",
+  "main": "dist/index.js",
+  "bin": {
+    "myjournal": "./dist/index.js"
+  },
+  "scripts": {
+    "build:publish": "tsc && npm publish",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-ch/myJournal.git"
+  },
+  "keywords": [
+    "CLI",
+    "journal",
+    "myjournal"
+  ],
+  "author": "David Gataric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css-ch/myJournal/issues"
+  },
+  "homepage": "https://github.com/css-ch/myJournal#readme",
+  "dependencies": {
+    "commander": "13.1.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.8.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
