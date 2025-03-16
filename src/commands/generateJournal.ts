@@ -1,9 +1,25 @@
 import fs from 'fs';
 import path from 'path';
 
-const createCommand = (name: string) => {
+const getCurrentCalendarWeek = (): string => {
+    const currentDate = new Date();
+    const startDate = new Date(currentDate.getFullYear(), 0, 1);
+    const days = Math.floor((currentDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24));
+    const weekNumber = Math.ceil((days + 1) / 7);
+    return weekNumber.toString();
+};
+
+const getCurrentYear = (): number => {
+    const currentDate = new Date();
+    return currentDate.getFullYear();
+};
+
+const generateJournal = () => {
+    const weekNumber = getCurrentCalendarWeek();
+    const name = `KW-${weekNumber}`;
+
     const templatePath = path.join(__dirname, '../../templates/journal-template.md');
-    const outputFolder = path.join(process.cwd(), 'journals');
+    const outputFolder = path.join(process.cwd(), `journals/${getCurrentYear()}`);
 
     if (!fs.existsSync(outputFolder)) {
         fs.mkdirSync(outputFolder, { recursive: true });
@@ -24,10 +40,10 @@ const createCommand = (name: string) => {
             if (err) {
                 console.error('Error writing the journal file:', err);
             } else {
-                console.log(`Journal file created: ${fileName}`);
+                console.log(`Journal file created for ${name}: ${fileName}`);
             }
         });
     });
 };
 
-export default createCommand;
+export default generateJournal;
