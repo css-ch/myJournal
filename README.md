@@ -34,7 +34,7 @@ Once installed, you can use the CLI to generate your weekly journal template.
 Run the following command to generate a new journal for your apprentice:
 
 ```bash
-myjournal create "apprentice-name"
+myjournal generate journal
 ```
 
 This will create a `journal-apprentice-name.md` file in your current directory with a pre-filled journal template.
