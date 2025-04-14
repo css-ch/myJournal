@@ -1,45 +1,62 @@
-# 📝 Dein Journal für {{name}} – Deine Woche im Rückblick
+# 🗓️ Wochenjournal – Rückblick & Ausblick für {{name}}
 
 ---
 
-## 🌟 Wie war deine Woche?
+## 🌈 Wochenstimmung
+
+Wie hast du dich diese Woche gefühlt?
 
 - [ ] 😄 **Sehr gut**
 - [ ] 🙂 **Gut**
 - [ ] 😐 **Okay**
 - [ ] 😞 **Schlecht**
-- [ ] 😞 **Sehr schlecht**
+- [ ] 😖 **Sehr schlecht**
 
 ---
 
-## 💪 Deine Erfolge der Woche
-Was hast du erreicht? (Kurz und prägnant)
+## ✅ Wochenhighlights
+
+**Was waren deine Erfolge oder positiven Momente?**  
+*(Kurz & knackig, gern stichpunktartig)*
+
+> - ________________  
+> - ________________  
+> - ________________
+
+---
+
+## 🧗‍♂️ Herausforderungen
+
+**Was hat dich herausgefordert oder zurückgeworfen?**
 
 > ________________
 
 ---
 
-## 💡 Deine Herausforderungen
-Was war die größte Herausforderung?
+## 🎯 Ziele für nächste Woche
+
+**Was möchtest du konkret erreichen oder verbessern?**
 
 > ________________
 
 ---
 
-## 🚀 Deine Ziele für nächste Woche
-Was möchtest du nächste Woche erreichen?
+## 🔋 Energiequellen
+
+**Was hat dir diese Woche Kraft oder Motivation gegeben?**  
+*(z. B. Menschen, Erlebnisse, Musik, Routinen …)*
 
 > ________________
 
 ---
 
-## 🙌 Was hat dich motiviert?
-Was hat dir geholfen, diese Woche durchzuhalten?
+## 🔄 Reflexion & Fokus
+
+**Was nimmst du aus dieser Woche mit?  
+Was willst du kommende Woche bewusst anders machen?**
 
 > ________________
 
 ---
 
-💬 **Reflektiere und plane deine nächste Woche!**
-
-> ________________
+> 💬 _„Reflexion ist der erste Schritt zu bewusstem Wachstum.“_
