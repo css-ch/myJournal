@@ -1,13 +1,14 @@
 {
   "name": "@css-ch/myjournal",
-  "version": "1.4.2",
+  "version": "1.5.2",
   "description": "A journal for apprentices",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "bin": {
-    "myjournal": "./dist/index.js"
+    "myjournal": "./dist/src/index.js"
   },
   "scripts": {
-    "build:publish": "npx tsc && npm publish",
+    "publish": "npm run build && npm publish",
+    "build": "tsc && cpx \"src/templates/*.md\" dist/src/templates",
     "start": "ts-node src/index.ts"
   },
   "repository": {
@@ -26,14 +27,18 @@
   },
   "homepage": "https://github.com/css-ch/myJournal#readme",
   "dependencies": {
+    "chart.js": "4.4.9",
+    "chartjs-node-canvas": "5.0.0",
     "commander": "13.1.0",
+    "inquirer": "12.5.2",
     "ts-node": "10.9.2"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
-    "@types/node": "^22.14.1",
-    "typescript": "^5.8.3"
+    "@types/node": "22.14.1",
+    "cpx": "1.5.0",
+    "typescript": "5.8.3"
   }
 }

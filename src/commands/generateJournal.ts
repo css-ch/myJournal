@@ -18,7 +18,7 @@ const generateJournal = () => {
     const weekNumber = getCurrentCalendarWeek();
     const name = `KW-${weekNumber}`;
 
-    const templatePath = path.join(__dirname, '../../templates/journal-template.md');
+    const templatePath = path.join(__dirname, '../templates/journal-template.md');
     const outputFolder = path.join(process.cwd(), `journals/${getCurrentYear()}`);
 
     if (!fs.existsSync(outputFolder)) {
