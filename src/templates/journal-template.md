@@ -1,23 +1,22 @@
-# 🗓️ Wochenjournal – Rückblick & Ausblick für {{name}}
+# 🗓️ Wochenjournal – Rückblick & Ausblick
 
 ---
 
-## 🌈 Wochenstimmung
+## 🎭 Gefühlslage der Woche
 
-Wie hast du dich diese Woche gefühlt?
+**Welche Stimmung beschreibt deine Woche am besten?**
 
-- [ ] 😄 **Sehr gut**
-- [ ] 🙂 **Gut**
-- [ ] 😐 **Okay**
-- [ ] 😞 **Schlecht**
-- [ ] 😖 **Sehr schlecht**
+- [ ] 🌟 **Motiviert & fokussiert**
+- [ ] 🌤️ **Gelassen & stabil**
+- [ ] 🌧️ **Durchwachsen**
+- [ ] 🌪️ **Stressig & chaotisch**
+- [ ] 💤 **Eher antriebslos**
 
 ---
 
-## ✅ Wochenhighlights
+## 🌟 Kleine & große Erfolge
 
-**Was waren deine Erfolge oder positiven Momente?**  
-*(Kurz & knackig, gern stichpunktartig)*
+**Worauf bist du diese Woche stolz – egal wie klein es war?**
 
 > - ________________  
 > - ________________  
@@ -25,38 +24,37 @@ Wie hast du dich diese Woche gefühlt?
 
 ---
 
-## 🧗‍♂️ Herausforderungen
+## 🧱 Stolpersteine
 
-**Was hat dich herausgefordert oder zurückgeworfen?**
-
-> ________________
-
----
-
-## 🎯 Ziele für nächste Woche
-
-**Was möchtest du konkret erreichen oder verbessern?**
+**Was hat dir diese Woche Schwierigkeiten bereitet – fachlich oder persönlich?**
 
 > ________________
 
 ---
 
-## 🔋 Energiequellen
+## 🚀 Nächste Schritte
 
-**Was hat dir diese Woche Kraft oder Motivation gegeben?**  
-*(z. B. Menschen, Erlebnisse, Musik, Routinen …)*
-
-> ________________
-
----
-
-## 🔄 Reflexion & Fokus
-
-**Was nimmst du aus dieser Woche mit?  
-Was willst du kommende Woche bewusst anders machen?**
+**Womit willst du kommende Woche bewusst weitermachen oder neu anfangen?**
 
 > ________________
 
 ---
 
-> 💬 _„Reflexion ist der erste Schritt zu bewusstem Wachstum.“_
+## 💡 Inspiration & Lernmomente
+
+**Gab es einen Moment, der dich zum Nachdenken oder Umdenken gebracht hat?**
+
+> ________________
+
+---
+
+## 🔍 Rückblick mit Weitblick
+
+**Was hast du über dich selbst gelernt?  
+Was nimmst du dir als Leitsatz für die nächste Woche mit?**
+
+> ________________
+
+---
+
+> 💬 _„Man wächst nicht an leichten Tagen, sondern an denen, die einen fordern.“_
