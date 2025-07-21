@@ -1,22 +1,31 @@
-# 🗓️ Wochenjournal – Rückblick & Ausblick
+# 🗓️ Wochenjournal – Reflexion & Fokus
 
 ---
 
-## 🎭 Gefühlslage der Woche
+## 📊 Wochenspiegel
 
-**Welche Stimmung beschreibt deine Woche am besten?**
-
-- [ ] 🌟 **Motiviert & fokussiert**
-- [ ] 🌤️ **Gelassen & stabil**
-- [ ] 🌧️ **Durchwachsen**
-- [ ] 🌪️ **Stressig & chaotisch**
-- [ ] 💤 **Eher antriebslos**
+**Wie würdest du deine Woche in einem Wort beschreiben?**
+> _z. B. „produktiv“, „chaotisch“, „ermutigend“, „zäh“…_
+> ________________
 
 ---
 
-## 🌟 Kleine & große Erfolge
+## 💬 Stimmung & Energie
 
-**Worauf bist du diese Woche stolz – egal wie klein es war?**
+**Welche Stimmung hat dich diese Woche begleitet? (Mehrfachauswahl möglich)**
+
+- [ ] 🔋 **Energiegeladen**
+- [ ] 🤔 **Nachdenklich**
+- [ ] 😵‍💫 **Überfordert**
+- [ ] 😊 **Zufrieden**
+- [ ] 😐 **Uninspiriert**
+- [ ] 💪 **Selbstbewusst**
+
+---
+
+## ✅ Erfolge & Fortschritte
+
+**Was hat diese Woche gut funktioniert oder dich vorangebracht?**
 
 > - ________________  
 > - ________________  
@@ -24,37 +33,36 @@
 
 ---
 
-## 🧱 Stolpersteine
+## 🧩 Herausforderungen
 
-**Was hat dir diese Woche Schwierigkeiten bereitet – fachlich oder persönlich?**
-
-> ________________
-
----
-
-## 🚀 Nächste Schritte
-
-**Womit willst du kommende Woche bewusst weitermachen oder neu anfangen?**
+**Gab es Momente, die dich frustriert, verwirrt oder gestoppt haben?**
 
 > ________________
 
 ---
 
-## 💡 Inspiration & Lernmomente
+## 🔭 Fokuspunkte der kommenden Woche
 
-**Gab es einen Moment, der dich zum Nachdenken oder Umdenken gebracht hat?**
-
-> ________________
-
----
-
-## 🔍 Rückblick mit Weitblick
-
-**Was hast du über dich selbst gelernt?  
-Was nimmst du dir als Leitsatz für die nächste Woche mit?**
+**Worauf möchtest du dich bewusst konzentrieren?**
 
 > ________________
 
 ---
 
-> 💬 _„Man wächst nicht an leichten Tagen, sondern an denen, die einen fordern.“_
+## 🧠 Neue Erkenntnisse
+
+**Was hast du in dieser Woche gelernt – über deine Arbeit, andere oder dich selbst?**
+
+> ________________
+
+---
+
+## 🧘‍♂️ Reflexion & Leitsatz
+
+**Welche Erkenntnis möchtest du mitnehmen – als Reminder für kommende Tage?**
+
+> _„__________________________________“_
+
+---
+
+> 💡 _„Nicht der Berg ist es, den man bezwingt, sondern das eigene Ich.“_
