@@ -4,65 +4,65 @@
 
 ## 📊 Wochenspiegel
 
-**Wie würdest du deine Woche in einem Wort beschreiben?**
-> _z. B. „produktiv“, „chaotisch“, „ermutigend“, „zäh“…_
-> ________________
+**Welches Bild oder Symbol beschreibt deine Woche am besten?**
+> _z. B. „Rakete 🚀“, „Labyrinth 🌀“, „Sonnenschein ☀️“…_
+> ________________  
 
 ---
 
 ## 💬 Stimmung & Energie
 
-**Welche Stimmung hat dich diese Woche begleitet? (Mehrfachauswahl möglich)**
+**Welche Stimmung stand im Vordergrund? (Mehrfachauswahl möglich)**
 
-- [ ] 🔋 **Energiegeladen**
-- [ ] 🤔 **Nachdenklich**
-- [ ] 😵‍💫 **Überfordert**
-- [ ] 😊 **Zufrieden**
-- [ ] 😐 **Uninspiriert**
-- [ ] 💪 **Selbstbewusst**
+- [ ] 🌞 **Motiviert**
+- [ ] 🌊 **Gelassen**
+- [ ] 🔥 **Gestresst, aber aktiv**
+- [ ] 🌧️ **Müde/erschöpft**
+- [ ] 🌱 **Neugierig/offen**
+- [ ] 🧊 **Zurückhaltend**
 
 ---
 
 ## ✅ Erfolge & Fortschritte
 
-**Was hat diese Woche gut funktioniert oder dich vorangebracht?**
+**Welche kleinen oder großen Erfolge hast du diese Woche gefeiert?**
 
 > - ________________  
 > - ________________  
-> - ________________
+> - ________________  
 
 ---
 
 ## 🧩 Herausforderungen
 
-**Gab es Momente, die dich frustriert, verwirrt oder gestoppt haben?**
+**Was hat dir diese Woche am meisten Energie geraubt?**
 
-> ________________
+> ________________  
 
 ---
 
 ## 🔭 Fokuspunkte der kommenden Woche
 
-**Worauf möchtest du dich bewusst konzentrieren?**
+**Wenn nächste Woche perfekt läuft – was ist bis Freitag geschafft?**
 
-> ________________
+> ________________  
 
 ---
 
 ## 🧠 Neue Erkenntnisse
 
-**Was hast du in dieser Woche gelernt – über deine Arbeit, andere oder dich selbst?**
+**Gab es einen Aha-Moment oder etwas, das dich überrascht hat?**
 
-> ________________
+> ________________  
 
 ---
 
 ## 🧘‍♂️ Reflexion & Leitsatz
 
-**Welche Erkenntnis möchtest du mitnehmen – als Reminder für kommende Tage?**
+**Welcher Satz könnte dich nächste Woche begleiten?**
 
 > _„__________________________________“_
 
 ---
 
-> 💡 _„Nicht der Berg ist es, den man bezwingt, sondern das eigene Ich.“_
+> 💡 _„Man wächst nicht an den Antworten, sondern an den Fragen.“_
