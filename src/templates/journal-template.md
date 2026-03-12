@@ -1,68 +1,70 @@
-# 🗓️ Wochenjournal – Reflexion & Fokus
+---
+title: "Wochenjournal – Rückblick & Ausblick"
+date: "2026-03-12"
+tags: ["Journal", "Reflexion", "Wochenplanung"]
+---
+
+# 🗓️ Wochenjournal – Rückblick & Ausblick
 
 ---
 
-## 📊 Wochenspiegel
+## 🧭 Das große Ganze
 
-**Welches Bild oder Symbol beschreibt deine Woche am besten?**
-> _z. B. „Rakete 🚀“, „Labyrinth 🌀“, „Sonnenschein ☀️“…_
+**Wenn diese Woche ein Filmtitel oder ein Emoji wäre, welcher wäre es?**
+> _z. B. „Die unendliche To-Do-Liste 🌪️“ oder „Aufbruch 🌅“_
 > ________________  
 
 ---
 
-## 💬 Stimmung & Energie
+## 🔋 Energie & Balance
 
-**Welche Stimmung stand im Vordergrund? (Mehrfachauswahl möglich)**
+**Wie war dein Energielevel diese Woche auf einer Skala von 1 bis 10?** `[ ___ / 10 ]`
 
-- [ ] 🌞 **Motiviert**
-- [ ] 🌊 **Gelassen**
-- [ ] 🔥 **Gestresst, aber aktiv**
-- [ ] 🌧️ **Müde/erschöpft**
-- [ ] 🌱 **Neugierig/offen**
-- [ ] 🧊 **Zurückhaltend**
+**Welche Emotionen waren am präsentesten? (Kreuze an)**
+- [ ] 🌟 Inspiriert & im Flow
+- [ ] 🧘‍♀️ Zentriert & ruhig
+- [ ] 🏃‍♂️ Getrieben & produktiv
+- [ ] 🌫️ Zerstreut & unruhig
+- [ ] 🪫 Erschöpft & leer
+- [ ] 🌱 Im Wachstumsprozess
 
----
+**Energiemanagement:**
+> **⚡ Was hat mir Energie gegeben?** > ________________
 
-## ✅ Erfolge & Fortschritte
-
-**Welche kleinen oder großen Erfolge hast du diese Woche gefeiert?**
-
-> - ________________  
-> - ________________  
-> - ________________  
+> **🧛‍♂️ Was hat mir Energie geraubt?** > ________________
 
 ---
 
-## 🧩 Herausforderungen
+## 🏆 Highlights & Dankbarkeit
 
-**Was hat dir diese Woche am meisten Energie geraubt?**
+**Wofür bist du diese Woche besonders dankbar?**
+1. ________________  
+2. ________________  
+3. ________________  
 
+**Welchen Erfolg (egal wie klein) hast du gefeiert?**
 > ________________  
 
 ---
 
-## 🔭 Fokuspunkte der kommenden Woche
+## 🧗‍♀️ Hindernisse & Learnings
 
-**Wenn nächste Woche perfekt läuft – was ist bis Freitag geschafft?**
+**Was lief nicht nach Plan und was nimmst du als Lektion daraus mit?**
+- **Situation:** ________________
+- **Mein Learning:** ________________
 
+---
+
+## 🎯 Fokus & Intention für nächste Woche
+
+**Was sind deine Top 3 Prioritäten? (Weniger ist mehr!)**
+- 🥇 ________________
+- 🥈 ________________
+- 🥉 ________________
+
+**Was darf nächste Woche bewusst liegen bleiben oder delegiert werden?**
 > ________________  
 
 ---
 
-## 🧠 Neue Erkenntnisse
-
-**Gab es einen Aha-Moment oder etwas, das dich überrascht hat?**
-
-> ________________  
-
----
-
-## 🧘‍♂️ Reflexion & Leitsatz
-
-**Welcher Satz könnte dich nächste Woche begleiten?**
-
-> _„__________________________________“_
-
----
-
-> 💡 _„Man wächst nicht an den Antworten, sondern an den Fragen.“_
+> 💡 **Zitat der Woche:** > _„Richtung ist wichtiger als Geschwindigkeit. Viele sind schnell unterwegs, aber nirgendwohin.“_
